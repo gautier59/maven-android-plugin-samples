@@ -58,7 +58,7 @@
   </mailingLists>
 
   <modules>
-<!--     <module>apidemos-android-16</module> -->
+    <module>apidemos-android-16</module>
     <module>helloflashlight</module>
     <module>morseflash</module>
     <module>scala</module>
