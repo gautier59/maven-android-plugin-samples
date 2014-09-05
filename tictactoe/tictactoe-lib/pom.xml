@@ -8,7 +8,6 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.simpligility.android.tictactoe</groupId>
     <artifactId>tictactoe-library</artifactId>
     <packaging>aar</packaging>
 
@@ -39,8 +38,6 @@
                     <sign>
                         <debug>false</debug>
                     </sign>
-                    <androidManifestFile>${project.basedir}/src/main/AndroidManifest.xml</androidManifestFile>
-                    <resourceDirectory>${project.basedir}/src/main/res</resourceDirectory>
                 </configuration>
             </plugin>
         </plugins>
