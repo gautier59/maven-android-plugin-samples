@@ -65,7 +65,7 @@
 <!--     <module>libraryprojects</module> -->
 <!--     <module>native</module> -->
 <!--     <module>support4demos</module> -->
-<!--     <module>tictactoe</module> -->
+     <module>tictactoe</module>
   </modules>
 
   <scm>
