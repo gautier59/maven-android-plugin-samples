@@ -60,7 +60,7 @@
   <modules>
 <!--     <module>apidemos-android-16</module> -->
     <module>helloflashlight</module>
-<!--     <module>morseflash</module> -->
+    <module>morseflash</module>
 <!--     <module>scala</module> -->
 <!--     <module>libraryprojects</module> -->
 <!--     <module>native</module> -->

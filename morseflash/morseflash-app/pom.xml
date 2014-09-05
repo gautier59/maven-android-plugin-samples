@@ -55,11 +55,11 @@
               <goal>copy-resources</goal>
             </goals>
             <configuration>
-              <outputDirectory>${project.basedir}/res</outputDirectory>
+              <outputDirectory>${project.basedir}/src/main/res</outputDirectory>
               <resources>
                 <resource>
                   <directory>${project.basedir}/src/templates/res</directory>
-                  <targetPath>${project.basedir}/res</targetPath>
+                  <targetPath>${project.basedir}/src/main/res</targetPath>
                   <filtering>true</filtering>
                 </resource>
               </resources>
