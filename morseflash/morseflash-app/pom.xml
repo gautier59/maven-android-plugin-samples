@@ -80,6 +80,9 @@
             </goals>
           </execution>
         </executions>
+          <configuration>
+              <failOnNonStandardStructure>false</failOnNonStandardStructure>
+          </configuration>
       </plugin>
     </plugins>
   </build>
@@ -151,7 +154,8 @@
             <artifactId>android-maven-plugin</artifactId>
             <inherited>true</inherited>
             <configuration>
-              <release>false</release>
+                <failOnNonStandardStructure>false</failOnNonStandardStructure>
+                <release>false</release>
               <sign>
                 <debug>false</debug>
               </sign>
