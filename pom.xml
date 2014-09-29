@@ -59,7 +59,6 @@
 
   <modules>
     <module>apidemos-android-16</module>
-    <module>scala</module>
     <module>libraryprojects</module>
     <module>native</module>
     <module>support4demos</module>
