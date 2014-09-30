@@ -1,10 +1,11 @@
 == Android Maven Plugin - Sample Projects
 
-WARNING:: This project is deprecated. All sample projects for the Android Maven
-Plugin are now part of the actual plugin codebase and run as
+WARNING:: *This project is deprecated*. All sample projects for the Android Maven
+Plugin as of version 4.0.0-rc.1 are part of the actual plugin codebase and run as
 integration tests. They can be found in the src/it/projects folder at
 https://github.com/jayway/maven-android-plugin[https://github.com/jayway/maven-android-plugin].
 
+The following content is mostly historical information and reference:
 
 === Introduction
 
