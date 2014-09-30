@@ -58,11 +58,8 @@
   </mailingLists>
 
   <modules>
-    <module>apidemos-android-16</module>
     <module>libraryprojects</module>
     <module>native</module>
-    <module>support4demos</module>
-    <module>tictactoe</module>
   </modules>
 
   <scm>
