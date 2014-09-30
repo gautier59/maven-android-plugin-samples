@@ -58,8 +58,6 @@
   </mailingLists>
 
   <modules>
-    <module>libraryprojects</module>
-    <module>native</module>
   </modules>
 
   <scm>
